@@ -1,0 +1,4 @@
+plt.scatter(x='Fare',y='Age',data=data)
+plt.xlabel("Fare")
+plt.ylabel("Age")
+plt.show()
